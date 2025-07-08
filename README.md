@@ -5,9 +5,20 @@ Topics related to Large Language Models (LLMs) and Transformers:
 ## Fundamental Architecture
 
 * Transformer Architecture Overview
-* Multi-head Attention Mechanisms
+* Attention mechanisms (self-attention, cross-attention, Multi-head)
+* Feed-forward networks (FFN)
 * Generalized Query Attention (GQA)
 * Mixture of Experts (MOE)
+* Encoder vs Decoder architectures
+* Model scaling (depth, width, vocabulary size)
+
+## Training Fundamentals
+* Loss functions
+* Optimizer choices (AdamW, Lion)
+* Learning rate scheduling
+* Gradient clipping
+* Mixed precision training
+* Distributed training strategies
 
 ## Core Components
 
@@ -17,6 +28,14 @@ Topics related to Large Language Models (LLMs) and Transformers:
   + Rotary Position Embedding (RoPE)
 * Layer Normalization
 * Decoding Strategies
+
+## Memory and Computation Optimization
+* Flash Attention
+* KV Cache
+* Gradient checkpointing
+* Memory efficient optimizers
+* Quantization (INT4/INT8)
+* Pruning techniques
 
 ## Model Training and Fine-tuning
 * LoRA (Low-Rank Adaptation)
