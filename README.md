@@ -2,7 +2,10 @@
 
 Topics related to Large Language Models (LLMs) and Transformers:
 
-https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/en/cheatsheet-transformers-large-language-models.pdf
+cheatsheet: https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/en/cheatsheet-transformers-large-language-models.pdf
+Course link of Stanford's CME 295: [https://github.com/afshinea/stanford-cme-295-transformers-large-language-models?tab=readme-ov-file
+](https://cme295.stanford.edu/)
+Course link of Stanford's CS 336: https://stanford-cs336.github.io/spring2024/
 
 ## Fundamental Architecture
 
