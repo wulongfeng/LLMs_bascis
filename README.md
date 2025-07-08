@@ -41,7 +41,8 @@ Topics related to Large Language Models (LLMs) and Transformers:
 * Memory efficient optimizers
 * Quantization (INT4/INT8)
 * Pruning techniques
-
+* Speculative decoding
+  
 ## Model Training and Fine-tuning
 * LoRA (Low-Rank Adaptation)
 * Reinforcement Learning Approaches
