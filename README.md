@@ -2,6 +2,8 @@
 
 Topics related to Large Language Models (LLMs) and Transformers:
 
+https://github.com/afshinea/stanford-cme-295-transformers-large-language-models/blob/main/en/cheatsheet-transformers-large-language-models.pdf
+
 ## Fundamental Architecture
 
 * Transformer Architecture Overview
