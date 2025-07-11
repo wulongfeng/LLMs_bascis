@@ -32,7 +32,7 @@ Topics related to Large Language Models (LLMs) and Transformers:
   + Traditional Position Embedding (PE)
   + Rotary Position Embedding (RoPE)
 * Layer Normalization
-* Decoding Strategies
+* Decoding Strategies. Code: https://github.com/huggingface/transformers/blob/c4d4e8bdbd25d9463d41de6398940329c89b7fb6/src/transformers/generation_utils.py#L101
 
 ## Memory and Computation Optimization
 * Flash Attention
