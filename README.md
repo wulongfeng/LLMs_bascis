@@ -34,7 +34,7 @@ Topics related to Large Language Models (LLMs) and Transformers:
 * Layer Normalization
 * Decoding Strategies.
   + Blog: [How to generate](https://huggingface.co/blog/how-to-generate)
-  + Code: https://github.com/huggingface/transformers/blob/c4d4e8bdbd25d9463d41de6398940329c89b7fb6/src/transformers/generation_utils.py#L101
+  + [Code](https://github.com/huggingface/transformers/blob/c4d4e8bdbd25d9463d41de6398940329c89b7fb6/src/transformers/generation_utils.py#L101)
 
 ## Memory and Computation Optimization
 * Flash Attention
@@ -49,7 +49,7 @@ Topics related to Large Language Models (LLMs) and Transformers:
 * LoRA (Low-Rank Adaptation)
 * Reinforcement Learning Approaches
   + RLHF (Reinforcement Learning from Human Feedback)
-  + PPO (Proximal Policy Optimization)
+  + PPO (Proximal Policy Optimization). [Code](https://github.com/deepspeedai/DeepSpeedExamples/blob/master/applications/DeepSpeed-Chat/dschat/rlhf/ppo_trainer.py)
   + DPO (Direct Preference Optimization)
 
 ## Optimization Techniques
