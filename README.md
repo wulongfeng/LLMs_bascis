@@ -50,8 +50,9 @@ Topics related to Large Language Models (LLMs) and Transformers:
 * Reinforcement Learning Approaches
   + RLHF (Reinforcement Learning from Human Feedback)
   + PPO (Proximal Policy Optimization). [Code](https://github.com/deepspeedai/DeepSpeedExamples/blob/master/applications/DeepSpeed-Chat/dschat/rlhf/ppo_trainer.py)
-  + DPO (Direct Preference Optimization) [Code](https://github.com/TechxGenus/LightDPO/tree/main)
-  +   [Data Construction](https://blog.gopenai.com/build-a-high-quality-dpo-dataset-596a07e574ec) 
+  + DPO (Direct Preference Optimization)
+    + [Code](https://github.com/TechxGenus/LightDPO/tree/main)
+    +   [Data Construction](https://blog.gopenai.com/build-a-high-quality-dpo-dataset-596a07e574ec) 
 
 ## Optimization Techniques
 
