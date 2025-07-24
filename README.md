@@ -35,6 +35,7 @@ Topics related to Large Language Models (LLMs) and Transformers:
 * Decoding Strategies.
   + Blog: [How to generate](https://huggingface.co/blog/how-to-generate)
   + [Code](https://github.com/huggingface/transformers/blob/c4d4e8bdbd25d9463d41de6398940329c89b7fb6/src/transformers/generation_utils.py#L101)
+  + Constraint Generation with [prefix_allowed_tokens_fn](https://discuss.huggingface.co/t/example-of-prefix-allowed-tokens-fn-while-text-generation/6635) and [Trie tree](https://github.com/facebookresearch/GENRE/blob/main/genre/trie.py)
 
 ## Memory and Computation Optimization
 * Flash Attention
