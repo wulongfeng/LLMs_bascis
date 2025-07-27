@@ -60,4 +60,7 @@ Topics related to Large Language Models (LLMs) and Transformers:
 * Rejection Sampling
 * Inference Acceleration Methods
 * Model Compression Strategies
+
+## Other Resources
+[R1](https://github.com/huggingface/open-r1)
   
