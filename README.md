@@ -46,6 +46,7 @@ Topics related to Large Language Models (LLMs) and Transformers:
 * Pruning techniques
 * Speculative decoding
    + [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/pdf/2211.17192)
+   + [Tutorial](https://github.com/hemingkx/SpeculativeDecodingPapers)
    + [Blog](https://zhuanlan.zhihu.com/p/651359908)
   
 ## Model Training and Fine-tuning
