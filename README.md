@@ -45,6 +45,8 @@ Topics related to Large Language Models (LLMs) and Transformers:
 * Quantization (INT4/INT8)
 * Pruning techniques
 * Speculative decoding
+   + [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/pdf/2211.17192)
+   + [Blog](https://zhuanlan.zhihu.com/p/651359908)
   
 ## Model Training and Fine-tuning
 * LoRA (Low-Rank Adaptation)
